@@ -5,7 +5,7 @@
 
 ## Main
 
-This repository contains Sitecore Patch #435148, #438093 and #444348, which fix some performance issues with a Data Provider.
+This repository contains Sitecore Patch #435148, #438093 and #444348, which fixes some performance issues with a Data Provider.
 
 ## Deployment
 
