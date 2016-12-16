@@ -3,6 +3,8 @@
   + 438093: Data Provider converts fields in a very inefficient manner.
   + 444348: Data Provider check if a blob should be deleted in a very inefficient manner.
 
+[![Total downloads](https://img.shields.io/github/downloads/SitecoreSupport/Sitecore.Support.435148.438093.444348/total.svg)](https://github.com/SitecoreSupport/Sitecore.Support.435148.438093.444348/releases)
+
 ## Main
 
 This repository contains Sitecore Patch #435148, #438093 and #444348, which fixes some performance issues with a Data Provider.
