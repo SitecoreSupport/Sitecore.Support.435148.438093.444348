@@ -1,9 +1,8 @@
- # Sitecore.Support.435148.438093.444348
-  + 435148/435339: Data Provider selects EventQueue without the `NOLOCK` hint.
-  + 438093 / TFS 96239: Data Provider converts fields in a very inefficient manner.
-  + 444348: Data Provider check if a blob should be deleted in a very inefficient manner.
+# Sitecore.Support.435148.438093.444348
 
-[![Total downloads](https://img.shields.io/github/downloads/SitecoreSupport/Sitecore.Support.435148.438093.444348/total.svg)](https://github.com/SitecoreSupport/Sitecore.Support.435148.438093.444348/releases)
++ 435148/435339: Data Provider selects EventQueue without the `NOLOCK` hint.
++ 438093 / TFS 96239: Data Provider converts fields in a very inefficient manner.
++ 444348: Data Provider check if a blob should be deleted in a very inefficient manner.
 
 ## Main
 
@@ -16,3 +15,5 @@ This patch is licensed under the [Sitecore Corporation A/S License](./LICENSE).
 ## Download
 
 Downloads are available via [GitHub Releases](https://github.com/SitecoreSupport/Sitecore.Support.435148.438093.444348/releases).
+
+[![Total downloads](https://img.shields.io/github/downloads/SitecoreSupport/Sitecore.Support.435148.438093.444348/total.svg)](https://github.com/SitecoreSupport/Sitecore.Support.435148.438093.444348/releases)
